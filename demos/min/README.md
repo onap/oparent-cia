@@ -4,7 +4,7 @@ This tutorial introduces a set of guidelines for the minimization of container i
 
 You may choose to simply read through the tutorial or run the experiments, which is highly recommended.
 
-Eeach section will guide you through an experiment that demonstrates, in a tangible manner, the benefits of following each guideline.
+Each section will guide you through an experiment that demonstrates, in a tangible manner, the benefits of following each guideline.
 
 The expectation is that, with each experiment, you will gain insight into the value of the guideline.
 
@@ -19,7 +19,7 @@ git clone https://gerrit.onap.org/r/oparent/cia
 ```
 ## Why are my numbers different?
 
-Please note that image sizes may vary slightly from platform to platform. This tutorial was produced on a Linux server. If you use a different platform, images sizes are bound to be different. And that's ok.
+Please note that image sizes may vary slightly from platform to platform. This tutorial was produced on a Linux server. If you use a different platform, images sizes are bound to be different. And that's OK.
 
 ## The canonical test app
 
@@ -37,7 +37,7 @@ Point a browser to http://0.0.0.0:5000/. If everything is working fine, you shou
 
 Let's explore the effect the base image has on the size of a container image.
 
-To demonstrate the effect of choosing the right base image, we will select three different base images to build container images that are functionaly equivalent.
+To demonstrate the effect of choosing the right base image, we will select three different base images to build container images that are functionally equivalent.
 
 ```bash
 cd <project-root>/base-image/
