@@ -1,0 +1,8 @@
+Verified+1: ONAP Jobbuilder <onap-jobbuilder@jenkins.onap.org>
+Code-Review+1: Rich Bennett <rb2745@att.com>
+Code-Review+2: Gary Wu <gary.i.wu@huawei.com>
+Submitted-by: Gary Wu <gary.i.wu@huawei.com>
+Submitted-at: Fri, 30 Nov 2018 15:02:40 +0000
+Reviewed-on: https://gerrit.onap.org/r/74012
+Project: oparent/cia
+Branch: refs/heads/casablanca
