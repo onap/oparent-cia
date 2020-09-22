@@ -2,4 +2,3 @@
 #
 78602ea8f1de2be38c9f0f2051012ff8cc2a0229                                    	saml/onap-gerrit-oparent-cia-committers
 daebbf523be390041a1a9c0e340a6d833aae5043                                    	GitHub Replication
-ldap:cn=onap-gerrit-oparent-cia-committers,ou=Groups,dc=freestandards,dc=org	ldap/onap-gerrit-oparent-cia-committers
